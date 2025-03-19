@@ -1,4 +1,4 @@
-# Hi there! :wave: Welcome to my GitHub!
+# Hi there! Welcome to my GitHub!🏄🌊
 
 
 ## My Skill (Programming Languages, Frameworks and Tools)
