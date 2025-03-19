@@ -14,6 +14,6 @@
 
 
 ## Trophy
-[![trophy](https://github-profile-trophy.vercel.app/?username=blueSky1173)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=blueSky1173&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
   
 <br><br><br>
