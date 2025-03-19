@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi there! :wave: Welcome to my GitHub!
 
-<!--
-**blue-sky-1173/blue-sky-1173** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## My Skill (Programming Languages, Frameworks and Tools)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="https://skillicons.dev/icons?i=html,css,js,react,vue,mysql,github,vscode,docker,rails,laravel,php,ruby,jquery,aws" /> <br /><br />
+
+## Stats
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=blue-sky-1173&theme=gruvbox)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=blue-sky-1173&theme=gruvbox)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=blue-sky-1173&theme=gruvbox)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=blue-sky-1173&theme=gruvbox)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=blue-sky-1173&theme=gruvbox&utcOffset=9)
+
+
+## Trophy
+![trophy](https://github-profile-trophy.vercel.app/?username=Keichan15&theme=gruvbox)
+  
+<br><br><br>
