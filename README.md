@@ -6,11 +6,11 @@
 <img src="https://skillicons.dev/icons?i=html,css,js,react,vue,mysql,github,vscode,docker,rails,laravel,php,ruby,jquery,aws" /> <br /><br />
 
 ## Stats
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=blueSky1173&theme=gruvbox)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=blueSky1173&theme=gruvbox)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=blueSky1173&theme=gruvbox)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=blueSky1173&theme=gruvbox)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=blueSky1173&theme=gruvbox&utcOffset=9)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mayu-i-1173&theme=gruvbox)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mayu-i-1173&theme=gruvbox)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mayu-i-1173&theme=gruvbox)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=mayu-i-1173&theme=gruvbox)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mayu-i-1173&theme=gruvbox&utcOffset=9)
 
 
 ## Trophy
